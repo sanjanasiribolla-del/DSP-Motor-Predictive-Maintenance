@@ -12,7 +12,7 @@
 * **Student Name:** Sanjana Sri Bolla
 * **Roll Number:** 160124758004
 * **Department:** Electronics and Communication Engineering / VLSI Design
-* **Academic Year:** 2026–27 (7th Semester, Final Year B.Tech)
+* **Academic Year:** 2026–27 (5th Semester, 3rd Year B.Tech)
 * **Domain:** Digital Signal Processing (DSP) & Machine Condition Monitoring
 * **Overleaf Project:** [Open Report in Overleaf](https://www.overleaf.com/project/6ade53a502d657d9a937f666)
 
